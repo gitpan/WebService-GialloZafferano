@@ -35,4 +35,6 @@ LICENSE
     under the same terms as Perl itself.
 
 SEE ALSO
-WebService::GialloZafferano::Recipe, WebService::GialloZafferano::Ingredient
+    WebService::GialloZafferano::Recipe,
+    WebService::GialloZafferano::Ingredient
+
